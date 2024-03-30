@@ -2,7 +2,7 @@
 <p>Eu me chamo Yago Santos Clemente e moro em Santa Catarina, sou estudante de escola pública, atualmente cursando o ensino médio com um curso técnico em programção para web integrado.</p>
 
 <h1> Sobre Mim </h1>
-<p> Comecei a estudar programação à 5 meses atrás, e descobri que sou apaixonado por isso, desde <strong>front-end</strong> até <strong>back-end</strong>. </p>
+<p> Comecei a estudar programação à 5 meses atrás, e descobri que sou apaixonado por isso, desde <strong>front-end</strong> até <strong>back-end</strong>. Em breve me tornarei programador Full Stack. </p>
 
 <h1> Meus Projetos </h1>
 <p> Essses sãos meus melhores projetos:</p>
