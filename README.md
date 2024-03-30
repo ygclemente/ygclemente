@@ -1,5 +1,5 @@
 <h1>Olá</h1> 
-<p>Eu me chamo Yago Santos Clemente e moro em Santa Catarina, sou estudante de escola pública, atualmente cursando o ensino médio com um curso técnico em programação para web integrado.</p>
+<p>Eu me chamo Yago Santos Clemente e moro em Santa Catarina, atualmente cursando o ensino médio com um curso técnico em programação para web integrado.</p>
 
 
 
