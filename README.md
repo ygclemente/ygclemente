@@ -7,7 +7,7 @@
 <p> Essses sãos meus melhores projetos:</p>
 <ul>
   <li>
-    🎨<a href="https://github.com/ygclemente/PetLife-OBC" target="_blank">PetLife</a> é uma pagina WEB para uma empresa ficticia de petshop.
+    🎨<a href=https://petlife-obc.netlify.app target="_blank">PetLife</a> é uma pagina WEB para uma empresa ficticia de petshop.
   </li>
   <li>
     📃 ...
