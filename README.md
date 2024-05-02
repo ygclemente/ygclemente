@@ -19,10 +19,10 @@
 <p>
   <ul>
     <li>
-      HTML5, CSS3, JavaScript
+      HTML5, CSS3...
     </li>
     <li>
-      TypeScript, NodeJS
+      Py...
     </li>
   </ul>
   <h1>
