@@ -13,18 +13,6 @@
     📃 ...
   </li>
 </ul>
-<h1>
-  Linguagens
-</h1>
-<p>
-  <ul>
-    <li>
-      HTML5, CSS3...
-    </li>
-    <li>
-      Py...
-    </li>
-  </ul>
   <h1>
     Me contate
   </h1>
